@@ -13,7 +13,9 @@ Alongside this, the NHS digital service also produce some basic summary document
 
 https://files.digital.nhs.uk/A8/645273/meas-from-asc-of-eng-1819-ASCOF_2018-19_Report.pdf
 
-The data is described as follows:
+There are 346,759 rows of 11 variables. Due to the size, this is stored as a .rds (RData) file. Read in as follows: 
+
+`readRDS(file = "ascof_14_19.rds")`
 
 The fields are interpreted as follows:
 
