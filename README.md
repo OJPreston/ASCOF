@@ -1,5 +1,5 @@
 # ASCOF
-Adult Social Care Outcomes Framework Data
+## Adult Social Care Outcomes Framework Data
 
 The Department of Health and Social Care (UK) have released their 2018-19 data returns for Adult Social Care this week:
 
@@ -55,12 +55,12 @@ Using the line of data highlighted, this shows that the outcome measure for fema
 
 Other things to be aware of when using these data
 A list of the data sources and the corresponding ASCOF measures is provided below:
-  -Adult Social Care Survey – Measures 1A, 1B, 1I(1), 3A, 3D(1), 4A and 4B
-  -Short and Long Term Activity – Measures 1C, 1E, 1G, 2A and 2D
-  -Short and Long Term Activity and Hospital Episode Statistics – Measure 2B
-  -Survey of Adult Carers – Measures 1D, 1I(2), 3B, 3C and 3D(2)
-  -Mental Health and Learning Disabilities Dataset – Measures 1F and 1H
-  -Delayed Transfers of Care and ONS mid-year population estimates – Measure 2C
+  - Adult Social Care Survey – Measures 1A, 1B, 1I(1), 3A, 3D(1), 4A and 4B
+  - Short and Long Term Activity – Measures 1C, 1E, 1G, 2A and 2D
+  - Short and Long Term Activity and Hospital Episode Statistics – Measure 2B
+  - Survey of Adult Carers – Measures 1D, 1I(2), 3B, 3C and 3D(2)
+  - Mental Health and Learning Disabilities Dataset – Measures 1F and 1H
+  - Delayed Transfers of Care and ONS mid-year population estimates – Measure 2C
 
 On the survey based measures outlined above, the base (i.e. the number of responses on which the outcome is based) should be taken into account when assessing the reliability of the outcome values. Outcomes based on a small base should be treated with caution.
 
