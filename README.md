@@ -26,34 +26,35 @@ The fields are interpreted as follows:
 **Geographical Description** – this is the geographical level description represented by the row and is defined as for Geographical Code.
 
 **Geographical Level** – this is provided to aid analysis. As data are made available to various levels (i.e. England, council type, regional and council totals) within the same datasets, this field is designed to enable users to access a single subset of the data which represents the overall total and the required level of detail. The levels are either:
-  Council
-  Region
-  Council Type
-  England
+  - Council
+  - Region
+  - Council Type
+  - England
   
 **ONS Area Code** – this is the geographical level represented by the row as defined by ONS Administrative Categories.  These codes are designed to facilitate the integration of datasets from disparate sources.  Further details of the ONS Administrative Geographies are available at https://geoportal.statistics.gov.uk.  Details of all regional and national codes used in the data file are outlined in Annex A.
 
 **ASCOF Measure Code** – this is a concatenation of the high-level measure code and any age group or gender disaggregations that are present.
-  Age ranges are represented numerically, with for example ‘1864’ representing ’18 to 64’.
+  - Age ranges are represented numerically, with for example ‘1864’ representing ’18 to 64’.
   Furthermore, ‘OV’ and ‘U’ are used for example in ‘65OV’ to represent ‘65 and over’ or ‘64U’ as ’64 and under’.
   Gender is represented as ‘M’ for ‘Male’ and ‘F’ for ‘Female’.
 
 **Disaggregation Level** – as with the measure code above, this field contains a description of the disaggregation level represented by the data.
 
 **Measure Type** – this field represents the type of measure provided by each row
-  Base is the number of survey respondents (which are only relevant and included for survey-based measures)
-  Denominator is the total available population who could have indicated agreement with a given measure
-  Numerator is the total population who indicated agreement with a given measure
-  Outcome is calculated as the numerator divided by the denominator
+  - Base is the number of survey respondents (which are only relevant and included for survey-based measures)
+  - Denominator is the total available population who could have indicated agreement with a given measure
+  - Numerator is the total population who indicated agreement with a given measure
+  - Outcome is calculated as the numerator divided by the denominator
 
 **Measure Value** – this is the value represented by the unique combination of ASCOF Measure Code, Geographical Level, Disaggregation Level and Measure Type for a given measure
 
 **Measure Group** – this is the high-level code of the measure represented by each row
 
 **Measure Group Description** – this is a description of the high-level measure
-Using the line of data highlighted, this shows that the outcome measure for females in England for measure 1F (Proportion of adults in contact with secondary mental health services in paid employment) is 8.0.
+- Using the line of data highlighted, this shows that the outcome measure for females in England for measure 1F (Proportion of adults in contact with secondary mental health services in paid employment) is 8.0.
 
-Other things to be aware of when using these data
+
+## Other things to be aware of when using these data
 A list of the data sources and the corresponding ASCOF measures is provided below:
   - Adult Social Care Survey – Measures 1A, 1B, 1I(1), 3A, 3D(1), 4A and 4B
   - Short and Long Term Activity – Measures 1C, 1E, 1G, 2A and 2D
